@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_dangnhap.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_chinh.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_nhanvien.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_xuathoadon.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_khachdatban.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_quanlysanpham.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe.config
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.exe
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.pdb
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.exe
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\bin\Debug\QuanCaPhe.pdb
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.csprojResolveAssemblyReference.cache
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_chinh.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_dangnhap.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_khachdatban.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_nhanvien.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_quanlysanpham.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.frm_xuathoadon.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.Properties.Resources.resources
+E:\Project\C#\Winform\QuanCaPhe\QuanCaPhe\obj\x86\Debug\QuanCaPhe.csproj.GenerateResource.Cache
